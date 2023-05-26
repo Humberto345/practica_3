@@ -103,7 +103,7 @@ body
  font-family:arial;
  font-weight:bold;
  margin:0px;
- color:blue;
+ color:rgb(45, 45, 225);
 }
 #wrapper #div2
 {
@@ -168,7 +168,7 @@ body
 {
  margin-left:10px;
  width:150px;
- color:blue;
+ color:rgb(84, 84, 222);
  text-decoration:none;
  font-size:11px;
  display: inline-block;
@@ -249,7 +249,7 @@ body
 }
 #footer1 a
 {
- color:#365899;
+ color:#3b70d4;
  display:inline;
  margin-left:10px;
  text-decoration:none;
