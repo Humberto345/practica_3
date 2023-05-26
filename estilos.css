@@ -7,6 +7,7 @@ body
  font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
  background: linear-gradient(white, #D3D8E8);
 }
+
 #header_wrapper
 {
  width:100%;
@@ -191,9 +192,10 @@ body
 }
 #wrapper #div2 li input[type="submit"]
 {
- width:205px;
+ width:105px;
  height:45px;
  text-align:center;
+ width:fit-content;
  font-size:19px;
  margin-top: 10px;
  margin-bottom: 10px;
@@ -276,3 +278,4 @@ body
 {
  text-decoration:underline;
 }
+
