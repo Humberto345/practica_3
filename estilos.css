@@ -1,0 +1,45 @@
+.tenedor{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(1,90px) repeat(1,670px) repeat(1,1px);
+    grid-template-areas: "Principal1             Principal2"
+                         "Principal3              Conte"
+                         "Principal4              Principal4";
+}
+.tenedor .Principal1{
+    background: #37538c;
+    grid-area: Principal1;
+}
+.tenedor .Principal2{
+    background: #37538C;
+    grid-area: Principal1;
+}
+.tenedor .Principal3{
+    background: #DBDFEB;
+    grid-area: Principal1;
+}
+.tenedor .Conte{
+    background: #DBDFEB;
+    grid-area: Principal1;
+}
+.tenedor .Principal4{
+    background: #ffffff;
+    grid-area: Principal1;
+}
+::-webkit-input-placeholder
+{
+    font-style: italic;
+    font-size: 20px;
+}
+:-moz-placeholder{
+    font-style: italic;
+    font-size: 20px;
+}
+::-moz-placeholder{
+    font-style: italic;
+    font-size: 20px;
+}
+:-ms-input-placeholder{
+    font-style: italic;
+    font-size: 20px;
+}
