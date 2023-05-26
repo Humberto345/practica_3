@@ -43,3 +43,39 @@
     font-style: italic;
     font-size: 20px;
 }
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.tenedor{
+    max-width: 100%;
+    margin: auto;
+}
+
+.tenedor >div{
+    display: block;
+    padding: 20px;
+}
+
+.Texto1{
+    font-family: 'Segoe UI black';
+    font-size: 40px;
+    color:#ffffff;
+    margin: 0 50px;
+}
+.Correo1{
+    color: white;
+    font-family: 'Segoe UI Semibold';
+    font-size: 13px;
+    
+}
+.Contraseña{
+    color:white;
+    font-family: 'Segoe UI Semibold';
+    font-size: 13px;
+    margin: 0 30px;
+}
+.Contraseña1{
+    margin: 0 30px;
+}
