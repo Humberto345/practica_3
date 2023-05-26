@@ -60,7 +60,7 @@ body
  width:150px;
  border:1px solid #08298A;
  height:25px;
- padding-left:3px;
+ padding-left:2px;
 }
 #header form input[type="password"]
 {
@@ -74,7 +74,7 @@ body
 #header form input[type="submit"]
 {
  height:25px;
- margin-top:20px;
+ margin-top:40px;
  background-color:#084B8A;
  color:white;
  border:1px solid #08298A;
